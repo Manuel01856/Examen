@@ -1,0 +1,8 @@
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\bin\Debug\Examen.exe.config
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\bin\Debug\Examen.exe
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\bin\Debug\Examen.pdb
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\obj\Debug\Examen.exe
+D:\zazuk\GitHub\ArchivosBinarios\Examen\Examen\obj\Debug\Examen.pdb

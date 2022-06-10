@@ -1,0 +1,9 @@
+Nombre: Resident Evil 2
+Con una descripción: Juego de resident evil 2 por capcom
+Con un precio de: 900
+Con un stock de: 54
+
+Nombre: The forest
+Con una descripción: Juego The Forest
+Con un precio de: 50
+Con un stock de: 2
